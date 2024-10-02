@@ -9,3 +9,5 @@ Git is a version control system. One of the implementations of git is Github.
 Git is fun!!!
 
 I can use git for my day-to-day coding activities.
+
+Trying to merge changes from main directly.
